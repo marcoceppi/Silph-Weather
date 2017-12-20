@@ -1,0 +1,11 @@
+api key: d6c1adeac7d7008ab74147f5a68f20be
+
+
+API call:
+
+http://api.openweathermap.org/data/2.5/forecast?id=524901&APPID={d6c1adeac7d7008ab74147f5a68f20be
+}
+Parameters:
+
+APPID {APIKEY} is your unique API key 
+Example of API call:
